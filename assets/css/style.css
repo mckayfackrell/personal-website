@@ -1,0 +1,135 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: white;
+}
+
+.hero {
+  background-image: url("../images/McKay.jpeg");
+  background-size: cover;
+  min-height: 40vh;
+  background-position: center;
+}
+
+.header {
+  background-color: #13293d;
+  color: white;
+  padding: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header h1 {
+  display: inline-block;
+  font-size: 30px;
+  padding: 20px;
+}
+
+.header nav {
+  padding-top: 25px;
+  margin-right: 20px;
+  float: right;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.header nav ul {
+  list-style-type: none;
+}
+
+.header nav ul li {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+/* .container-main{
+  background-color: red;
+  aspect-ratio: 5/1;
+  height: 100px;
+}
+
+.container{
+display: flex;
+position: relative;
+text-align: center;
+margin-left: 200px;
+gap: 5rem;
+}
+
+.project img {
+  display: block;
+  height: 30vh;
+  width: 100%;
+  object-fit: fill;
+} */
+
+
+.container {
+  flex-wrap: wrap;
+  position: relative;
+  text-align: center;
+  border: 10px solid rgb(106, 163, 198);
+  margin-left: 200px;
+  margin-right: 35px;
+}
+
+.bottom-left {
+position: absolute;
+bottom: 24px;
+left: 0px;
+background-color: rgb(106, 163, 198);
+}
+
+.project {
+ min-height: 100px;
+}
+
+.project img {
+  display: block;
+  height: 30vh;
+  width: 100%;
+  object-fit: fill;
+}
+
+.contact-me {
+  background-color: #13293d;
+  color: white;
+  padding: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contact-me h3 {
+  display: inline-block;
+  font-size: 30px;
+  padding: 20px;
+}
+
+.footer nav {
+  padding-top: 25px;
+  margin-right: 20px;
+  float: right;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.contact-me ul {
+  list-style-type: none;
+}
+
+.contact-me ul li {
+  display: inline-block;
+  margin-left: 25px;
+}
