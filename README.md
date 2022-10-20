@@ -1,14 +1,11 @@
-# module-02
+# Personal Website of McKay Fackrell
 ## Description
-This website provides portfolio work samples of a potential employee. 
-
-## Installation
-N/A
+McKay Fackrell's personal website.
 
 ## Usage
- This website allows a potential employer to view a portfolio of work samples of a potential employee. 
+This website is a personal portfolio for myself, McKay Fackrell. This website has information about me, resume, portfolio, services and contact. 
 
- The portfolio provides the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them.
+The nav bar on the left takes the user to the specific pages. The user can also scroll to the sections. There is a contact form that the user can fill out which contacts me via email.
 
 ## URL and Screenshot
 https://mckayfackrell.github.io/module-02/
@@ -17,10 +14,7 @@ https://mckayfackrell.github.io/module-02/
 
 
 ## Authors and acknowledgment
-McKay Fackrell is the original creator and owner of the code.
+Original code downloaded from bootstrapmade.com, template: iPortfolio. I have since made my personal changes to the website to make it my own.
 
 ## License
 Please refer to the LICENSE in the repo.
-
-## Project status
-A week long course that should be submitted on September 26, 2022. Once submitted changes will most likely cease as new repositories going over new coding features will be added and more focus will be dedicated to them.
